@@ -66,3 +66,7 @@ The model used is **CatBoostClassifier**, an efficient implementation of gradien
 ## Code
 
 For the implementation details, please refer to the `main.py` file in this repository.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
