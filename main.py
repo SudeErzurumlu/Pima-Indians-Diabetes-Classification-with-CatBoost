@@ -44,4 +44,4 @@ report_catboost = classification_report(y_test, y_pred_catboost)
 print("CatBoost Model Performance:")
 print(f"Accuracy: {accuracy_catboost}")
 print(f"ROC AUC: {auc_catboost}")
-print(report_catboost)
+print(report_catboost) #report
